@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="E21702E9-BDEB-4C28-AC87-18E105479D23">
+  <lastEdited clientType="local-build-20120219" date="2012-02-19 11:05:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>App Pricing, Promotion and Submission</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I&#x2019;ve finally submitted My Life In Numbers to the Apple app store for review. The release date is the 5th December 2011 and they are currently taking about 5 days to review so, if all goes to plan, the app will be available from a week Monday. I originally planned to charge 69p for the app but after reading about app promotion and potential sales I&#x2019;ve decided to release it for free. I read somewhere that there are in the region of 1,000 apps released the to the app store every day and the only way to get noticed (and achieve any sort of sales) is to either, spend quite a bit of money on advertising or get featured by Apple. If you are in the top 100 (or even better the top 25) for your category then you will get reasonable sales. If not, then you will likely go unnoticed.&#xD;I have created a press release and I&#x2019;m sending it off to numerous app review sites. &lt;a href="http://www.maniacdev.com/"&gt;www.maniacdev.com&lt;/a&gt; provides an excellent list of these with contact details ordered by Alexa ranking. I&#x2019;ve also created a website, a twitter account (@mylifeinnumber) and contacted a few technology journalists.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, 25 November 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

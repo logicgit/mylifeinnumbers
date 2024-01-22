@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="E21702E9-BDEB-4C28-AC87-18E105479D23">
+  <lastEdited clientType="local-build-20120219" date="2012-02-19 11:05:43 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Conception</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>I have been considering writing an iPhone app for some time. For the last few years we seem to have been bombarded with stories of developers (often kids) making their fortune from some crappy app. Surely, it can&#x2019;t be that hard? I&#x2019;m not actually that na&#xEF;ve. I&#x2019;ve got 3 young kids and both my wife and I work full time and I also like the occasional game of golf/football so spare time is at a premium. Add to that no experience of Objective C (though I do have C++) nor Xcode (and its associated frameworks) and I know this will be painful.&#xA0;&#xD;Unfortunately, though I have an idea for an app. It might not be the best idea but it&#x2019;s mine and it&#x2019;s unique (as far as I can tell anyway). I contemplated writing a game (as this appears to be where the money is) but this seemed like a step too far. I needed something that was standalone and required minimal graphical design skills (as I don&#x2019;t have any at all). I can&#x2019;t remember where it came from now but the basic premise is that you measure events in your life in different ways (with different metrics). OK, so you know that you are 38 years old, for example, but do you know how many seconds old you are or when you were 1,000,000,000 seconds old. This in itself is not a new idea but why stop there. You could measure the distance travelled by the earth, or by sound/light or you could countdown to your holiday in the number of flights worldwide. The possibilities are endless and this is My Life In Numbers. (368,709,332,123,478 km &#x2013; the distance travelled by light since I was born btw).</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, 10 June 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Create your own event</title>
+	<link rel="stylesheet" href="css/general.css" type="text/css" media="screen" />
+	<script type="text/javascript" src="jquery/jquery-1.4.4.js"></script>	
+<!--head_code_set--><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28098406-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- Start of StatCounter Code for iWeb -->
+<script type="text/javascript">
+var sc_project=7703766; 
+var sc_invisible=1; 
+var sc_security="24418658"; 
+</script>
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="counter for
+iweb" href="http://statcounter.com/iweb/"
+target="_blank"><img class="statcounter"
+src="http://c.statcounter.com/7703766/0/24418658/1/"
+alt="counter for iweb"></a></div></noscript>
+<!-- End of StatCounter Code for iWeb -->
+<link rel="shortcut icon" href="/favicon.ico" /><!--/head_code_set--><meta name="robots" content="follow,index" /></head>
+<body>
+	<div id="InputContainer">
+		<script type="text/javascript" src="datetimepicker_css.js"></script>	
+		<script type="text/javascript" src="utils.js"></script>					
+		<script type="text/javascript" src="addNewEvent.js"></script>			
+		  Enter details of a new event (e.g. my birthday, my anniversary, I was born, I retire, I go on holiday etc...). </BR></BR>
+		  Name of event (since/until...):<input id="eventNameInput" type="text" size="25" maxlength="40"></BR>
+		  Date ( dd-MM-yyyy hh:mm:ss ):<input id="eventDateInput" type="text" size="25"><img src="images/cal.gif" onclick="javascript:NewCssCal('eventDateInput', 'ddMMyyyy','dropdown',true,'24',true);" style="cursor:pointer" alt="" /></BR>
+		  <center><button id="saveButton" onclick="saveEvent();">Save</button></center>
+	 </div>
+<!--code_set--></body>
+</html>

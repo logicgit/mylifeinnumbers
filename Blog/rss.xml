@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Blog.html</link>
+    <description>Hi, I’m Phil Latham and I live in Shenfield, Essex (originally from the North West) and this is my blog for My Life In Numbers. If you have any comments then please get in touch. You can also follow me on twitter @mylifeinnumber.&lt;br/&gt;</description>
+    <generator>iWeb 3.0.4</generator>
+    <image>
+      <url>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Blog_files/Website.jpg</url>
+      <title>Blog</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Blog.html</link>
+    </image>
+    <item>
+      <title>Twitter and the Website</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/2/25_Twitter_and_the_Website.html</link>
+      <guid isPermaLink="false">7ec15ab2-3b43-4816-8960-33f4058fed59</guid>
+      <pubDate>Sat, 25 Feb 2012 13:50:17 +0000</pubDate>
+      <description>Since the start of the year I’ve started to use Twitter more and more to promote the app. I’ve added a load of new measures to my own version of the app (including government spending, US crime figures, worldwide health figures etc) and I post to my twitter account from the app. I’ve used a website called Twiends to get more followers (currently 6,000) and I’ve seen a slight increase in app downloads (averaging between 20 and 25 per week).&lt;br/&gt;I’ve decided to add the app functionality to my website (which you should see here) as, in theory, it should be easier to drive traffic here than get iPhone app downloads! If I can get some reasonable (increasing) traffic through to the site then I’ll do a new release of the app with additional measures/metrics and include some of the feedback I have.</description>
+    </item>
+    <item>
+      <title>Reality bites</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/1/26_Reality_bites.html</link>
+      <guid isPermaLink="false">6bc79e3e-1464-46b8-8698-880fd85a8b06</guid>
+      <pubDate>Thu, 26 Jan 2012 13:48:45 +0000</pubDate>
+      <description>The app was accepted by Apple with no problems and downloads started at an unexpectedly decent pace (week one – 286 sales). I think I was helped here by a mention in the Guardian newspaper (Stuart Dredge mentioned the app in the Apps Rush section) and, obviously, friends/family etc. By week two I was down to 71 sales, week three 14 sales and week four 15 sales. I had no contact from any of the review sites I contacted (unless you count them offering me a review for a fee) but did have genuine feedback from two downloaders. It really does make it worthwhile when someone you have never met comes back to with you genuine enthusiasm for something you have created.&lt;br/&gt;</description>
+    </item>
+    <item>
+      <title>App Pricing, Promotion and Submission</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/25_App_Pricing,_Promotion_and_Submission.html</link>
+      <guid isPermaLink="false">54f7f3f8-1b32-4397-8e4c-54e24914cf8b</guid>
+      <pubDate>Fri, 25 Nov 2011 13:45:01 +0000</pubDate>
+      <description>I’ve finally submitted My Life In Numbers to the Apple app store for review. The release date is the 5th December 2011 and they are currently taking about 5 days to review so, if all goes to plan, the app will be available from a week Monday. I originally planned to charge 69p for the app but after reading about app promotion and potential sales I’ve decided to release it for free. I read somewhere that there are in the region of 1,000 apps released the to the app store every day and the only way to get noticed (and achieve any sort of sales) is to either, spend quite a bit of money on advertising or get featured by Apple. If you are in the top 100 (or even better the top 25) for your category then you will get reasonable sales. If not, then you will likely go unnoticed.&lt;br/&gt;I have created a press release and I’m sending it off to numerous app review sites. &lt;a href=&quot;http://www.maniacdev.com/&quot;&gt;www.maniacdev.com&lt;/a&gt; provides an excellent list of these with contact details ordered by Alexa ranking. I’ve also created a website, a twitter account (@mylifeinnumber) and contacted a few technology journalists.&lt;br/&gt;</description>
+    </item>
+    <item>
+      <title>Icons, splash screen, TestFlight and Sharekit</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/1_Icons,_splash_screen,_TestFlight_and_Sharekit.html</link>
+      <guid isPermaLink="false">d4c78dba-ec2b-492a-a203-3f8847c15a14</guid>
+      <pubDate>Tue, 1 Nov 2011 13:43:18 +0000</pubDate>
+      <description>OK, I’m pretty much done with development. After spending too long trying to decide on a splash screen (which I eventually bought the rights to from one of the various stock photo websites) and icons (a rather nifty glossy blue orb set free from &lt;a href=&quot;http://icons.mysitemyway.com/&quot;&gt;http://icons.mysitemyway.com&lt;/a&gt;) I decided to add social media integration into the app.&lt;br/&gt;This is where Sharekit came in. It’s a really handy utility that wraps itself around all the various APIs (Twitter, Facebook etc) and exposes a really simple interface for you to use. It’s free and it has saved me days of work.&lt;br/&gt;I’ve done quite a lot of testing myself on my iPad and my wife’s iPhone 3GS but I’ve decided to make use of another free utility called TestFlight for further QA. It allows you to send invites out to people who you think might be interested in helping you test. They have to then sign up. You have to then provision them on the Apple Provisioning portal, download the provisioning profile, add it into Xcode, do a build, and upload to TestFlight who will then distribute it for you. Once you’ve done it a few times it becomes second nature but it can seem a little convoluted at the beginning. I managed to rope in about 10 mates or family members and about 5 random people on Twitter who follow the TestFlight account. All in all, a worthwhile process. I ended up doing two subsequent releases on the back of the feedback I received.&lt;br/&gt;</description>
+    </item>
+    <item>
+      <title>A Precipitous Path</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/10/20_A_Precipitous_Path.html</link>
+      <guid isPermaLink="false">1916b9d2-e743-4cfb-a066-816da969ace7</guid>
+      <pubDate>Thu, 20 Oct 2011 13:39:15 +0100</pubDate>
+      <description>I’ve never used OSX so the joy of getting my hands on a shiny (albeit second hand) Macbook Pro was cut rather short by my inability to accomplish the most basic of tasks. I must admit I was a bit underwhelmed. I was expecting (and rightly so since several colleagues are huge Apple advocates) a more, err, user friendly experience. Is it just me or is it particularly difficult to move and organise Windows (why can you only resize from the bottom right-hand corner)?&lt;br/&gt;Anyhow, enough winging, I managed to overcome my OSX prejudices and get on with the matters at hand. I should mention that I did start with a brief(ish) web based proof of concept so I had an idea of what the layout would be and how the code would fit together. I decided to split the front-end (Cocoa objective c stuff) from the back end calculations so I could put these in a separate C++ library. The thinking behind this was that I could knock the library out in a relative small amount of time and it would minimise the amount of Objective C I would need to write. In practice, however, I actually lost some of the useful date/time utilities that Objective C would have given me and ended up having to hand roll some of these in C++, so probably negating any gains I was hoping to make. To be honest Objective C wasn’t the massive headache I thought it would be. Once you get a handle on properties and the strange syntax then you can get going fairly quickly.&lt;br/&gt;Getting to grips with the various Cocoa frameworks and Xcode is, however, quite time consuming. You need to read the documentation, run through a few examples and then re-read the docs again. Working with navigation, tabbar and tableview controllers can be a chore so best to find a close example from the Apple developer website and use this as a starting point.&lt;br/&gt;I would love to say it has only taken me a week to write the app but it’s taken the best part of 3 months and I haven’t finished. One of the main problems is trying to achieve things too quickly. There is no magic way of speeding up the learning process (well not for me anyway). I found that I would often sit down at around 9:00pm after making the dinner / getting the kids in bed etc. and find myself rushing to achieve something when really I should have spent more time learning and understanding. I managed to wangle a weekend away without the kids and this is, undoubtedly, where I made the most progress. I would recommend to anyone in a similar position to take the time off work (if at all feasible) and spend one or two solid weeks of developing as this is probably the equivalent of a man month or more when split over the occasional hour here or there.</description>
+    </item>
+  </channel>
+</rss>

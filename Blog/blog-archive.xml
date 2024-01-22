@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog</link>
+    <description>Hi, I&#x2019;m Phil Latham and I live in Shenfield, Essex (originally from the North West) and this is my blog for My Life In Numbers. If you have any comments then please get in touch. You can also follow me on twitter @mylifeinnumber.
+</description>
+    <item>
+      <title>Twitter and the Website</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/2/25_Twitter_and_the_Website.html</link>
+      <guid isPermaLink="false">7ec15ab2-3b43-4816-8960-33f4058fed59</guid>
+      <pubDate>Sat, 25 Feb 2012 13:50:17 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/2/25_Twitter_and_the_Website.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Reality bites</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/1/26_Reality_bites.html</link>
+      <guid isPermaLink="false">6bc79e3e-1464-46b8-8698-880fd85a8b06</guid>
+      <pubDate>Thu, 26 Jan 2012 13:48:45 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2012/1/26_Reality_bites.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>App Pricing, Promotion and Submission</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/25_App_Pricing,_Promotion_and_Submission.html</link>
+      <guid isPermaLink="false">54f7f3f8-1b32-4397-8e4c-54e24914cf8b</guid>
+      <pubDate>Fri, 25 Nov 2011 13:45:01 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/25_App_Pricing,_Promotion_and_Submission.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Icons, splash screen, TestFlight and Sharekit</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/1_Icons,_splash_screen,_TestFlight_and_Sharekit.html</link>
+      <guid isPermaLink="false">d4c78dba-ec2b-492a-a203-3f8847c15a14</guid>
+      <pubDate>Tue, 1 Nov 2011 13:43:18 +0000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/11/1_Icons,_splash_screen,_TestFlight_and_Sharekit.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>A Precipitous Path</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/10/20_A_Precipitous_Path.html</link>
+      <guid isPermaLink="false">1916b9d2-e743-4cfb-a066-816da969ace7</guid>
+      <pubDate>Thu, 20 Oct 2011 13:39:15 +0100</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/10/20_A_Precipitous_Path.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Conception</title>
+      <link>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/6/10_Conception.html</link>
+      <guid isPermaLink="false">edb4c42e-688b-450f-a6bd-fb7f3970ab92</guid>
+      <pubDate>Fri, 10 Jun 2011 15:21:44 +0100</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog/Entries/2011/6/10_Conception.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, d MMMM yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.mylifeinnumbers.co.uk/My_Life_In_Numbers_2/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

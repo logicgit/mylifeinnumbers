@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="E21702E9-BDEB-4C28-AC87-18E105479D23">
+  <lastEdited clientType="local-build-20120219" date="2012-02-19 11:05:43 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Icons, splash screen, TestFlight and Sharekit</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>OK, I&#x2019;m pretty much done with development. After spending too long trying to decide on a splash screen (which I eventually bought the rights to from one of the various stock photo websites) and icons (a rather nifty glossy blue orb set free from &lt;a href="http://icons.mysitemyway.com/"&gt;http://icons.mysitemyway.com&lt;/a&gt;) I decided to add social media integration into the app.&#xD;This is where Sharekit came in. It&#x2019;s a really handy utility that wraps itself around all the various APIs (Twitter, Facebook etc) and exposes a really simple interface for you to use. It&#x2019;s free and it has saved me days of work.&#xD;I&#x2019;ve done quite a lot of testing myself on my iPad and my wife&#x2019;s iPhone 3GS but I&#x2019;ve decided to make use of another free utility called TestFlight for further QA. It allows you to send invites out to people who you think might be interested in helping you test. They have to then sign up. You have to then provision them on the Apple Provisioning portal, download the provisioning profile, add it into Xcode, do a build, and upload to TestFlight who will then distribute it for you. Once you&#x2019;ve done it a few times it becomes second nature but it can seem a little convoluted at the beginning. I managed to rope in about 10 mates or family members and about 5 random people on Twitter who follow the TestFlight account. All in all, a worthwhile process. I ended up doing two subsequent releases on the back of the feedback I received.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Tuesday, 1 November 2011&lt;/b&gt;</richText>
+  </textBox>
+</content>

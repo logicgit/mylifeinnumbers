@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<content collectionGUID="E21702E9-BDEB-4C28-AC87-18E105479D23">
+  <lastEdited clientType="local-build-20120219" date="2012-02-19 11:05:44 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Reality bites</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The app was accepted by Apple with no problems and downloads started at an unexpectedly decent pace (week one &#x2013; 286 sales). I think I was helped here by a mention in the Guardian newspaper (Stuart Dredge mentioned the app in the Apps Rush section) and, obviously, friends/family etc. By week two I was down to 71 sales, week three 14 sales and week four 15 sales. I had no contact from any of the review sites I contacted (unless you count them offering me a review for a fee) but did have genuine feedback from two downloaders. It really does make it worthwhile when someone you have never met comes back to with you genuine enthusiasm for something you have created.&#xD;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Thursday, 26 January 2012&lt;/b&gt;</richText>
+  </textBox>
+</content>

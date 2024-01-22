@@ -1,0 +1,200 @@
+﻿/******* TABLES *******/
+body 
+{
+    width: 10px
+	background-color: transparent;
+	background: transparent;
+}
+
+iframe
+{
+	background-color: transparent;
+	background: transparent;
+}
+
+div
+{
+	background-color: transparent;
+	background: transparent;
+}
+
+#addEventButton 
+{ 
+	margin: 18px;
+	background-color: #399ee3; 
+    color:#FFFFFF;
+	font-size: 16px;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+#saveButton 
+{ 
+	margin: 18px;
+	background-color: #399ee3; 
+    color:#FFFFFF;
+	font-size: 16px;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+#InputContainer
+{ 
+	margin: 18px;
+	background-color: #FFFFFF; 
+    color:#399ee3;
+	font-size: 16px;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+	
+#mainTable
+{
+    font-size: 16px;
+    margin: auto;
+    width: 590px;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+div.titleText
+{
+    font-size: 22px;
+    margin: auto;
+	color:#FFFFFF;
+	text-align: centre;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+	display: table;
+}
+
+table.liveEventsMeasuresTable
+{
+    font-size: 14px;
+    float: left;
+    width: 350px;
+	color:#399ee3;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+
+td.name
+{
+    font-size: 16px;
+    margin: auto;
+	color:#399ee3;
+	text-align: left;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+td.number
+{
+    font-size: 21px;
+    margin: auto;
+	color:#FFFFFF;
+	text-align: right;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+td.hidden
+{
+    font-size: 22px;
+    margin: auto;
+	color:#000000;
+	text-align: right;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+	height: 10px;
+}
+
+td.liveEventName
+{
+    font-size: 14px;
+    margin: auto;
+	color:#399ee3;	
+	text-align: left;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+td.livedate
+{
+    font-size: 14px;
+    margin: auto;
+	text-align: left;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+td.liveName
+{
+    font-size: 13px;
+    margin: auto;
+	color:#399ee3;
+	text-align: left;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+a.liveEventName
+{
+    font-size: 13px;
+    margin: auto;
+	color:#399ee3;
+	text-align: left;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+	text-decoration:none;
+}
+
+a:link {
+COLOR: #399ee3;
+}
+a:visited {
+COLOR: #399ee3;
+}
+a:hover {
+COLOR: #FFFFFF;
+}
+a:active {
+COLOR: #399ee3;
+}
+td.liveNumber
+{
+    font-size: 13px;
+    margin: auto;
+	color:#FFFFFF;
+	text-align: right;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+th
+{
+    font-size: 19px;
+    margin: auto;
+	color:#FFFFFF;
+	text-align: left;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+	font-weight:normal;
+}
+
+td.header
+{
+    font-size: 19px;
+    margin: auto;
+	color:#FFFFFF;
+	text-align: left;
+	font-weight:normal;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+td.deleteX
+{
+    font-size: 10px;
+    margin: auto;
+	color:white;
+	text-align: left;
+	font-weight:normal;	
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
+
+
+#liveEventsNameTable
+{
+	font-weight:normal;
+    font-size: 18px;
+    margin: auto;
+    width: 230px;
+	color:#FFFFFF;
+	font-family: Futura-Medium, Futura, 'Trebuchet MS', sans-serif;
+}
